@@ -1,0 +1,10 @@
+{
+  "modelVersion": "1.0.0",
+  "name": "cicd-test-project",
+  "version": "1.0.0-SNAPSHOT",
+  "source": "file:///Users/sudeshna.biswas/Desktop/Users/sudeshna.biswas/Desktop/cicd-repo/pom.xml",
+  "natures": [
+    "mule"
+  ],
+  "components": []
+}
